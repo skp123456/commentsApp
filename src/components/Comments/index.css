@@ -1,0 +1,103 @@
+.comments-bg-container {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 95px;
+}
+
+.main-heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.descreption {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 10px;
+  font-weight: 600;
+}
+
+.input-element {
+  height: 30px;
+  width: 220px;
+  border: 1px solid #dee0e3;
+  border-radius: 5px;
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 12px;
+  padding-left: 10px;
+  outline: none;
+}
+
+.textarea-element {
+  border: 1px solid #dee0e3;
+  margin-top: 10px;
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 12px;
+  padding-left: 10px;
+  border-radius: 5px;
+  outline: none;
+}
+
+.add-button {
+  height: 35px;
+  width: 120px;
+  background-color: #0284c7;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 600;
+  border-radius: 5px;
+  border: none;
+  margin-top: 10px;
+}
+
+.comment-image {
+  height: 250px;
+  width: 300px;
+  margin-left: 85px;
+}
+
+.seperator {
+  border: 1px solid #64748b;
+  margin-left: 90px;
+  margin-right: 90px;
+  padding-top: 0px;
+}
+
+.comment-count {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 600;
+  background-color: #0284c7;
+  height: 35px;
+  width: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.count-comment {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 17px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+.count-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 0px;
+  padding: 95px;
+}
+
+.list-item-container {
+  list-style-type: none;
+}
